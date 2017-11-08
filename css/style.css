@@ -144,7 +144,6 @@ a:hover, a:active, a:focus {
   text-align: center;
 }
 
-
 /*---------------------------------------
   Pre loader            
 -----------------------------------------*/
@@ -304,6 +303,7 @@ a:hover, a:active, a:focus {
 
 .work-thumb img {
   border-radius: 5px;
+   width: 100%;
 }
 
 .work-thumb h2 {
